@@ -1,0 +1,132 @@
+2022-07-04 14:47:17,949 - src/tes/resources/input/log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-04 14:47:26,305 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 14:47:26,386 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 14:47:26,684 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 14:47:27,930 - src/tes/resources/input/log4j.properties -INFO - user clicks on cart button
+2022-07-04 14:47:27,988 - src/tes/resources/input/log4j.properties -INFO - user clicks on add to cart
+2022-07-04 14:47:28,049 - src/tes/resources/input/log4j.properties -INFO - user sees the sucess message
+2022-07-04 14:47:28,381 - src/tes/resources/input/log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-04 14:48:53,919 - src/tes/resources/input/log4j.properties -INFO - Scenario User Verify currency values change started
+2022-07-04 14:49:01,929 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 14:49:01,998 - src/tes/resources/input/log4j.properties -INFO - user clicks on currency
+2022-07-04 14:49:02,358 - src/tes/resources/input/log4j.properties -INFO - user clicks on euro option
+2022-07-04 14:49:02,408 - src/tes/resources/input/log4j.properties -INFO - user is succesfull
+2022-07-04 14:49:02,674 - src/tes/resources/input/log4j.properties -INFO - Scenario User Verify currency values change PASSED
+2022-07-04 14:51:00,429 - src/tes/resources/input/log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-04 14:51:08,467 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 14:51:08,554 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 14:51:08,845 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 14:51:10,096 - src/tes/resources/input/log4j.properties -INFO - user clicks on cart button
+2022-07-04 14:51:10,156 - src/tes/resources/input/log4j.properties -INFO - user clicks on add to cart
+2022-07-04 14:51:10,210 - src/tes/resources/input/log4j.properties -INFO - user sees the sucess message
+2022-07-04 14:51:10,237 - src/tes/resources/input/log4j.properties -INFO - user sees the item in the cart
+2022-07-04 14:51:10,303 - src/tes/resources/input/log4j.properties -INFO - user clicks on cart option
+2022-07-04 14:51:10,442 - src/tes/resources/input/log4j.properties -INFO - user clicks on remove button
+2022-07-04 14:51:10,611 - src/tes/resources/input/log4j.properties -INFO - user succesfully manages to remove items from cart
+2022-07-04 14:51:10,938 - src/tes/resources/input/log4j.properties -INFO - Scenario Add and Remove a Mac book from cart PASSED
+2022-07-04 14:52:22,322 - src/tes/resources/input/log4j.properties -INFO - Scenario User empty Shopping cart message display started
+2022-07-04 14:52:25,721 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 14:52:25,804 - src/tes/resources/input/log4j.properties -INFO - user shoping cart
+2022-07-04 14:52:30,854 - src/tes/resources/input/log4j.properties -INFO - user sees the messege
+2022-07-04 14:52:31,094 - src/tes/resources/input/log4j.properties -INFO - Scenario User empty Shopping cart message display PASSED
+2022-07-04 15:05:41,996 - src/tes/resources/input/log4j.properties -INFO - Scenario product Comparison started
+2022-07-04 15:05:50,046 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:05:50,135 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 15:05:50,672 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 15:05:50,910 - src/tes/resources/input/log4j.properties -INFO - Scenario product Comparison UNDEFINED
+2022-07-04 15:19:02,672 - src/tes/resources/input/log4j.properties -INFO - Scenario product Comparison started
+2022-07-04 15:19:10,785 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:19:10,859 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 15:19:11,171 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 15:19:11,244 - src/tes/resources/input/log4j.properties -INFO - user clicked on compare button in macbook
+2022-07-04 15:19:11,285 - src/tes/resources/input/log4j.properties -INFO - user clicked on mac air compare button
+2022-07-04 15:19:11,355 - src/tes/resources/input/log4j.properties -INFO - user sees the success message 
+2022-07-04 15:19:11,619 - src/tes/resources/input/log4j.properties -INFO - user clicks on comparion link
+2022-07-04 15:19:11,682 - src/tes/resources/input/log4j.properties -INFO - user is on comparision chart page
+2022-07-04 15:19:11,896 - src/tes/resources/input/log4j.properties -INFO - Scenario product Comparison PASSED
+2022-07-04 15:25:32,775 - src/tes/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-04 15:25:41,029 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:25:41,116 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 15:25:41,573 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 15:25:41,816 - src/tes/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list UNDEFINED
+2022-07-04 15:27:21,495 - src/tes/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-04 15:27:30,287 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:27:30,385 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 15:27:30,700 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 15:28:00,989 - src/tes/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list FAILED
+2022-07-04 15:31:30,782 - src/tes/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-04 15:31:38,774 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:31:38,856 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 15:31:39,193 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 15:31:55,702 - src/tes/resources/input/log4j.properties -INFO - user clicks on heart option on sony item
+2022-07-04 15:31:55,758 - src/tes/resources/input/log4j.properties -INFO - user is asked to creat or login to their account
+2022-07-04 15:31:55,980 - src/tes/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list PASSED
+2022-07-04 15:35:58,404 - src/tes/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-04 15:36:06,437 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:36:06,531 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 15:36:06,837 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 15:36:14,455 - src/tes/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list FAILED
+2022-07-04 15:37:59,511 - src/tes/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-04 15:38:02,559 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:38:02,725 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 15:38:03,220 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 15:38:09,453 - src/tes/resources/input/log4j.properties -INFO - user clicks on heart option on sony item
+2022-07-04 15:38:09,503 - src/tes/resources/input/log4j.properties -INFO - user is asked to creat or login to their account
+2022-07-04 15:38:09,717 - src/tes/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list PASSED
+2022-07-04 15:42:55,159 - src/tes/resources/input/log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-04 15:42:58,062 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:42:58,221 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 15:42:58,612 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 15:42:58,859 - src/tes/resources/input/log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 UNDEFINED
+2022-07-04 15:48:59,075 - src/tes/resources/input/log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-04 15:49:02,150 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:49:02,293 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 15:49:02,688 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 15:49:04,136 - src/tes/resources/input/log4j.properties -INFO - user clicks in macbookpro
+2022-07-04 15:49:04,487 - src/tes/resources/input/log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-07-04 15:50:31,797 - src/tes/resources/input/log4j.properties -INFO - Scenario User Verify currency values change started
+2022-07-04 15:50:34,775 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:50:34,881 - src/tes/resources/input/log4j.properties -INFO - user clicks on currency
+2022-07-04 15:50:35,340 - src/tes/resources/input/log4j.properties -INFO - user clicks on euro option
+2022-07-04 15:50:35,399 - src/tes/resources/input/log4j.properties -INFO - user is succesfull
+2022-07-04 15:50:35,621 - src/tes/resources/input/log4j.properties -INFO - Scenario User Verify currency values change PASSED
+2022-07-04 15:50:35,675 - src/tes/resources/input/log4j.properties -INFO - Scenario User empty Shopping cart message display started
+2022-07-04 15:50:37,767 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:50:37,845 - src/tes/resources/input/log4j.properties -INFO - user shoping cart
+2022-07-04 15:50:42,883 - src/tes/resources/input/log4j.properties -INFO - user sees the messege
+2022-07-04 15:50:43,052 - src/tes/resources/input/log4j.properties -INFO - Scenario User empty Shopping cart message display PASSED
+2022-07-04 15:50:43,091 - src/tes/resources/input/log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-04 15:50:45,350 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:50:45,451 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 15:50:45,811 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 15:50:47,294 - src/tes/resources/input/log4j.properties -INFO - user clicks on cart button
+2022-07-04 15:50:47,360 - src/tes/resources/input/log4j.properties -INFO - user clicks on add to cart
+2022-07-04 15:50:47,431 - src/tes/resources/input/log4j.properties -INFO - user sees the sucess message
+2022-07-04 15:50:47,489 - src/tes/resources/input/log4j.properties -INFO - user sees the item in the cart
+2022-07-04 15:50:47,581 - src/tes/resources/input/log4j.properties -INFO - user clicks on cart option
+2022-07-04 15:50:47,745 - src/tes/resources/input/log4j.properties -INFO - user clicks on remove button
+2022-07-04 15:50:47,831 - src/tes/resources/input/log4j.properties -INFO - user succesfully manages to remove items from cart
+2022-07-04 15:50:48,080 - src/tes/resources/input/log4j.properties -INFO - Scenario Add and Remove a Mac book from cart PASSED
+2022-07-04 15:50:48,115 - src/tes/resources/input/log4j.properties -INFO - Scenario product Comparison started
+2022-07-04 15:50:50,279 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:50:50,375 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 15:50:50,766 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 15:50:50,869 - src/tes/resources/input/log4j.properties -INFO - user clicked on compare button in macbook
+2022-07-04 15:50:50,936 - src/tes/resources/input/log4j.properties -INFO - user clicked on mac air compare button
+2022-07-04 15:50:51,041 - src/tes/resources/input/log4j.properties -INFO - user sees the success message 
+2022-07-04 15:50:51,376 - src/tes/resources/input/log4j.properties -INFO - user clicks on comparion link
+2022-07-04 15:50:51,428 - src/tes/resources/input/log4j.properties -INFO - user is on comparision chart page
+2022-07-04 15:50:51,653 - src/tes/resources/input/log4j.properties -INFO - Scenario product Comparison PASSED
+2022-07-04 15:50:51,684 - src/tes/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-04 15:50:53,876 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:50:53,982 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 15:50:54,337 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 15:51:00,238 - src/tes/resources/input/log4j.properties -INFO - user clicks on heart option on sony item
+2022-07-04 15:51:00,277 - src/tes/resources/input/log4j.properties -INFO - user is asked to creat or login to their account
+2022-07-04 15:51:00,480 - src/tes/resources/input/log4j.properties -INFO - Scenario Adding an item to Wish list PASSED
+2022-07-04 15:51:00,480 - src/tes/resources/input/log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-04 15:51:02,766 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 15:51:02,871 - src/tes/resources/input/log4j.properties -INFO - user click on laptop and note book option
+2022-07-04 15:51:03,212 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
+2022-07-04 15:51:04,704 - src/tes/resources/input/log4j.properties -INFO - user clicks in macbookpro
+2022-07-04 15:51:05,016 - src/tes/resources/input/log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
