@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/tes/resources/feature",
 glue = "step.definations", 
-tags = "@all", 
+tags = "@gat1", 
 dryRun = false, 
 monochrome = true,
 strict = true, 

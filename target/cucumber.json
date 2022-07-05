@@ -1,13 +1,13 @@
 [
   {
-    "line": 2,
+    "line": 1,
     "elements": [
       {
-        "start_timestamp": "2022-07-04T22:50:31.584Z",
+        "start_timestamp": "2022-07-05T05:53:53.096Z",
         "before": [
           {
             "result": {
-              "duration": 2969102200,
+              "duration": 3854131500,
               "status": "passed"
             },
             "match": {
@@ -15,14 +15,14 @@
             }
           }
         ],
-        "line": 5,
-        "name": "User Verify currency values change",
+        "line": 4,
+        "name": "User verify all items are present in Desktops tab",
         "description": "",
-        "id": "home-page;user-verify-currency-values-change",
+        "id": "desktop;user-verify-all-items-are-present-in-desktops-tab",
         "after": [
           {
             "result": {
-              "duration": 221358700,
+              "duration": 293203700,
               "status": "passed"
             },
             "match": {
@@ -35,10 +35,10 @@
         "steps": [
           {
             "result": {
-              "duration": 132978700,
+              "duration": 139133100,
               "status": "passed"
             },
-            "line": 6,
+            "line": 5,
             "name": "User is on Retail Website",
             "match": {
               "location": "step.definations.homePage.user_is_on_retail_website()"
@@ -47,698 +47,53 @@
           },
           {
             "result": {
-              "duration": 104039000,
+              "duration": 106973700,
               "status": "passed"
             },
-            "line": 7,
-            "name": "User clicks on Currency",
+            "line": 6,
+            "name": "User click on Desktop tab",
             "match": {
-              "location": "step.definations.homePage.user_clicks_on_currency()"
+              "location": "step.definations.Desktop.user_click_on_desktop_tab()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 456180400,
+              "duration": 494813800,
               "status": "passed"
             },
-            "line": 8,
-            "name": "User Chose Euro from dropdown",
+            "line": 7,
+            "name": "User click on Show all desktops",
             "match": {
-              "location": "step.definations.homePage.user_chose_euro_from_dropdown()"
+              "location": "step.definations.Desktop.user_click_on_show_all_desktops()"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 54268400,
+              "duration": 55405600,
               "status": "passed"
             },
-            "line": 9,
-            "name": "currency value should chande to Euro",
+            "line": 8,
+            "name": "User should see all items are present in Desktop page",
             "match": {
-              "location": "step.definations.homePage.currency_value_should_chande_to_euro()"
+              "location": "step.definations.Desktop.user_should_see_all_items_are_present_in_desktop_page()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@all"
-          },
-          {
-            "name": "@tag1"
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2022-07-04T22:50:35.668Z",
-        "before": [
-          {
-            "result": {
-              "duration": 2042285700,
-              "status": "passed"
-            },
-            "match": {
-              "location": "step.definations.Initializer.beforeHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "line": 12,
-        "name": "User empty Shopping cart message display",
-        "description": "",
-        "id": "home-page;user-empty-shopping-cart-message-display",
-        "after": [
-          {
-            "result": {
-              "duration": 169363700,
-              "status": "passed"
-            },
-            "match": {
-              "location": "step.definations.Initializer.afterHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 55315100,
-              "status": "passed"
-            },
-            "line": 13,
-            "name": "User is on retail websitee",
-            "match": {
-              "location": "step.definations.homePage.user_is_on_retail_websitee()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 5075414600,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "User clicks on shoppping cart",
-            "match": {
-              "location": "step.definations.homePage.user_clicks_on_shoppping_cart()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 36306900,
-              "status": "passed"
-            },
-            "line": 15,
-            "name": "message is desplayed",
-            "match": {
-              "location": "step.definations.homePage.message_shold_display()"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@all"
-          },
-          {
-            "name": "@tag2"
+            "name": "@gat1"
           }
         ]
       }
     ],
-    "name": "Home Page",
+    "name": "Desktop",
     "description": "",
-    "id": "home-page",
+    "id": "desktop",
     "keyword": "Feature",
-    "uri": "file:src/tes/resources/feature/homePage.feature",
-    "tags": [
-      {
-        "name": "@all",
-        "type": "Tag",
-        "location": {
-          "line": 1,
-          "column": 1
-        }
-      }
-    ]
-  },
-  {
-    "line": 2,
-    "elements": [
-      {
-        "start_timestamp": "2022-07-04T22:50:43.081Z",
-        "before": [
-          {
-            "result": {
-              "duration": 2203113500,
-              "status": "passed"
-            },
-            "match": {
-              "location": "step.definations.Initializer.beforeHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "line": 5,
-        "name": "Add and Remove a Mac book from cart",
-        "description": "",
-        "id": "laptop-\u0026-notebooks;add-and-remove-a-mac-book-from-cart",
-        "after": [
-          {
-            "result": {
-              "duration": 248025600,
-              "status": "passed"
-            },
-            "match": {
-              "location": "step.definations.Initializer.afterHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 60196700,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "User is on Retail Website",
-            "match": {
-              "location": "step.definations.homePage.user_is_on_retail_website()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 99816300,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "User click on laptop \u0026 notebook tab",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_laptop_notebook_tab()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 359811400,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "User click on show all laptop \u0026 notebool option",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_show_all_laptop_notebool_option()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 1484629700,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "User click on macbook item",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_macbook_item()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 63246600,
-              "status": "passed"
-            },
-            "line": 10,
-            "name": "user click add to cart button",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_add_to_cart_button()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 68290300,
-              "status": "passed"
-            },
-            "line": 11,
-            "name": "user should see a message \"succes: you have added Macbook to your shopping cart!\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"succes: you have added Macbook to your shopping cart!\"",
-                  "offset": 26
-                }
-              ],
-              "location": "step.definations.laptopAndNotebook.user_should_see_a_message(java.lang.String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 56772500,
-              "status": "passed"
-            },
-            "line": 12,
-            "name": "User should see \"1 item(s)-602.00\" showed to the cart",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"1 item(s)-602.00\"",
-                  "offset": 16
-                }
-              ],
-              "location": "step.definations.laptopAndNotebook.user_should_see_showed_to_the_cart(java.lang.String)"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 90760000,
-              "status": "passed"
-            },
-            "line": 13,
-            "name": "User click on cart option",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_cart_option()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 163148400,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "User click on red X button to remove the item from cart",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_red_x_button_to_remove_the_item_from_cart()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 87245500,
-              "status": "passed"
-            },
-            "line": 15,
-            "name": "item should be removed and cart should show \"0 itmes(s)\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"0 itmes(s)\"",
-                  "offset": 44
-                }
-              ],
-              "location": "step.definations.laptopAndNotebook.item_should_be_removed_and_cart_should_show_itmes_s(java.lang.String)"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@all"
-          },
-          {
-            "name": "@taga"
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2022-07-04T22:50:48.105Z",
-        "before": [
-          {
-            "result": {
-              "duration": 2124380900,
-              "status": "passed"
-            },
-            "match": {
-              "location": "step.definations.Initializer.beforeHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "line": 18,
-        "name": "product Comparison",
-        "description": "",
-        "id": "laptop-\u0026-notebooks;product-comparison",
-        "after": [
-          {
-            "result": {
-              "duration": 224937000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "step.definations.Initializer.afterHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 48660500,
-              "status": "passed"
-            },
-            "line": 19,
-            "name": "User is on Retail Website",
-            "match": {
-              "location": "step.definations.homePage.user_is_on_retail_website()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 94309500,
-              "status": "passed"
-            },
-            "line": 20,
-            "name": "User click on laptop \u0026 notebook tab",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_laptop_notebook_tab()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 389523400,
-              "status": "passed"
-            },
-            "line": 21,
-            "name": "User click on show all laptop \u0026 notebool option",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_show_all_laptop_notebool_option()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 103690200,
-              "status": "passed"
-            },
-            "line": 22,
-            "name": "User click on product comparison icon on MacBook",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_product_comparison_icon_on_mac_book()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 64537900,
-              "status": "passed"
-            },
-            "line": 23,
-            "name": "User click on product comparison icon on MacBook Air",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_product_comparison_icon_on_mac_book_air()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 106616600,
-              "status": "passed"
-            },
-            "line": 24,
-            "name": "User should see a message \"Success: You have added MacBook Air to your product comparison!\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"Success: You have added MacBook Air to your product comparison!\"",
-                  "offset": 26
-                }
-              ],
-              "location": "step.definations.laptopAndNotebook.user_should_see_a_messag(java.lang.String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 332937700,
-              "status": "passed"
-            },
-            "line": 25,
-            "name": "User click on Product comparison link",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_product_comparison_link()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 51093800,
-              "status": "passed"
-            },
-            "line": 26,
-            "name": "User should see Product Comparison Chart",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_should_see_product_comparison_chart()"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@all"
-          },
-          {
-            "name": "@tagb"
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2022-07-04T22:50:51.674Z",
-        "before": [
-          {
-            "result": {
-              "duration": 2151390800,
-              "status": "passed"
-            },
-            "match": {
-              "location": "step.definations.Initializer.beforeHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "line": 29,
-        "name": "Adding an item to Wish list",
-        "description": "",
-        "id": "laptop-\u0026-notebooks;adding-an-item-to-wish-list",
-        "after": [
-          {
-            "result": {
-              "duration": 201631900,
-              "status": "passed"
-            },
-            "match": {
-              "location": "step.definations.Initializer.afterHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 48648700,
-              "status": "passed"
-            },
-            "line": 30,
-            "name": "User is on Retail Website",
-            "match": {
-              "location": "step.definations.homePage.user_is_on_retail_website()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 106091500,
-              "status": "passed"
-            },
-            "line": 31,
-            "name": "User click on laptop \u0026 notebook tab",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_laptop_notebook_tab()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 353413000,
-              "status": "passed"
-            },
-            "line": 32,
-            "name": "User click on show all laptop \u0026 notebool option",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_show_all_laptop_notebool_option()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 5900196800,
-              "status": "passed"
-            },
-            "line": 33,
-            "name": "User click on heart icon to add ‘Sony VaIO’ laptop to wish list",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_heart_icon_to_add_sony_va_io_laptop_to_wish_list()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 39046000,
-              "status": "passed"
-            },
-            "line": 34,
-            "name": "User should get a message \"You must login or create an account to save Sony VAIO to your wish list!\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"You must login or create an account to save Sony VAIO to your wish list!\"",
-                  "offset": 26
-                }
-              ],
-              "location": "step.definations.laptopAndNotebook.user_should_see_a_messa(java.lang.String)"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@all"
-          },
-          {
-            "name": "@tagc"
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2022-07-04T22:51:00.480Z",
-        "before": [
-          {
-            "result": {
-              "duration": 2231539500,
-              "status": "passed"
-            },
-            "match": {
-              "location": "step.definations.Initializer.beforeHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "line": 37,
-        "name": "Validate the price of MacBook Pro is 2000",
-        "description": "",
-        "id": "laptop-\u0026-notebooks;validate-the-price-of-macbook-pro-is-2000",
-        "after": [
-          {
-            "result": {
-              "duration": 275427300,
-              "status": "passed"
-            },
-            "match": {
-              "location": "step.definations.Initializer.afterHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 54393000,
-              "status": "passed"
-            },
-            "line": 38,
-            "name": "User is on Retail Website",
-            "match": {
-              "location": "step.definations.homePage.user_is_on_retail_website()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 106364200,
-              "status": "passed"
-            },
-            "line": 39,
-            "name": "User click on laptop \u0026 notebook tab",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_laptop_notebook_tab()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 339524200,
-              "status": "passed"
-            },
-            "line": 40,
-            "name": "User click on show all laptop \u0026 notebool option",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_show_all_laptop_notebool_option()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 1491781400,
-              "status": "passed"
-            },
-            "line": 41,
-            "name": "User click on ‘MacBook Pro’ item",
-            "match": {
-              "location": "step.definations.laptopAndNotebook.user_click_on_mac_book_pro_item()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 34809700,
-              "status": "passed"
-            },
-            "line": 42,
-            "name": "User should see  \"$2,000.00\" price tag is present on UI",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"$2,000.00\"",
-                  "offset": 17
-                }
-              ],
-              "location": "step.definations.laptopAndNotebook.user_should_see_price_tag_is_present_on_ui(java.lang.String)"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@all"
-          },
-          {
-            "name": "@tagd"
-          }
-        ]
-      }
-    ],
-    "name": "laptop \u0026 NoteBooks",
-    "description": "",
-    "id": "laptop-\u0026-notebooks",
-    "keyword": "Feature",
-    "uri": "file:src/tes/resources/feature/laptopAndNotebook.feature",
-    "tags": [
-      {
-        "name": "@all",
-        "type": "Tag",
-        "location": {
-          "line": 1,
-          "column": 1
-        }
-      }
-    ]
+    "uri": "file:src/tes/resources/feature/desktop.feature",
+    "tags": []
   }
 ]

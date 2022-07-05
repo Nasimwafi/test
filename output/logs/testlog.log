@@ -130,3 +130,12 @@
 2022-07-04 15:51:03,212 - src/tes/resources/input/log4j.properties -INFO - user clicks on show all
 2022-07-04 15:51:04,704 - src/tes/resources/input/log4j.properties -INFO - user clicks in macbookpro
 2022-07-04 15:51:05,016 - src/tes/resources/input/log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-07-04 22:37:56,983 - src/tes/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-04 22:38:04,164 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 22:38:04,440 - src/tes/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab UNDEFINED
+2022-07-04 22:53:53,357 - src/tes/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-04 22:53:57,216 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-04 22:53:57,325 - src/tes/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-04 22:53:57,822 - src/tes/resources/input/log4j.properties -INFO - user clicked on show all
+2022-07-04 22:53:57,880 - src/tes/resources/input/log4j.properties -INFO - user sees the all items
+2022-07-04 22:53:58,175 - src/tes/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab PASSED
