@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/tes/resources/feature",
 glue = "step.definations", 
-tags = "@gat1", 
+tags = "@jahan", 
 dryRun = false, 
 monochrome = true,
 strict = true, 
@@ -22,6 +22,7 @@ plugin = {
 )
 
 public class TestRunner {
+	
 	
 	
 

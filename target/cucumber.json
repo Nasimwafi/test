@@ -1,13 +1,82 @@
 [
   {
-    "line": 1,
+    "line": 2,
     "elements": [
       {
-        "start_timestamp": "2022-07-05T05:53:53.096Z",
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 103973800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Retail Website",
+            "match": {
+              "location": "step.definations.homePage.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 80547700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on MyAccount",
+            "match": {
+              "location": "step.definations.RetailPageSteps.user_click_on_my_account()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 296664000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on login",
+            "match": {
+              "location": "step.definations.RetailPageSteps.user_click_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 698829100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enter Username and password",
+            "match": {
+              "location": "step.definations.RetailPageSteps.user_enter_username_and_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 50840400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user should be loged in to MyAccount",
+            "match": {
+              "location": "step.definations.RetailPageSteps.user_should_be_loged_in_to_my_account()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-19T00:42:21.017Z",
         "before": [
           {
             "result": {
-              "duration": 3854131500,
+              "duration": 5861479600,
               "status": "passed"
             },
             "match": {
@@ -15,14 +84,14 @@
             }
           }
         ],
-        "line": 4,
-        "name": "User verify all items are present in Desktops tab",
+        "line": 18,
+        "name": "Edit your affiliate information from Cheque payment method to Bank Transfer",
         "description": "",
-        "id": "desktop;user-verify-all-items-are-present-in-desktops-tab",
+        "id": "retail-page;edit-your-affiliate-information-from-cheque-payment-method-to-bank-transfer",
         "after": [
           {
             "result": {
-              "duration": 293203700,
+              "duration": 204750500,
               "status": "passed"
             },
             "match": {
@@ -35,65 +104,77 @@
         "steps": [
           {
             "result": {
-              "duration": 139133100,
+              "duration": 550794100,
               "status": "passed"
             },
-            "line": 5,
-            "name": "User is on Retail Website",
+            "line": 19,
+            "name": "User click on ‘Edit your affiliate informationlink",
             "match": {
-              "location": "step.definations.homePage.user_is_on_retail_website()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 106973700,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "User click on Desktop tab",
-            "match": {
-              "location": "step.definations.Desktop.user_click_on_desktop_tab()"
+              "location": "step.definations.RetailPageSteps.user_click_on_edit_your_affiliate_informationlink()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 494813800,
+              "duration": 65897500,
               "status": "passed"
             },
-            "line": 7,
-            "name": "User click on Show all desktops",
+            "line": 20,
+            "name": "user click on Bank Transfer radio button",
             "match": {
-              "location": "step.definations.Desktop.user_click_on_show_all_desktops()"
+              "location": "step.definations.RetailPageSteps.user_click_on_bank_transfer_radio_button()"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 55405600,
+              "duration": 342759500,
               "status": "passed"
             },
-            "line": 8,
-            "name": "User should see all items are present in Desktop page",
+            "line": 21,
+            "name": "User fill Bank information with below information",
             "match": {
-              "location": "step.definations.Desktop.user_should_see_all_items_are_present_in_desktop_page()"
+              "location": "step.definations.RetailPageSteps.user_fill_bank_information_with_below_information()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 335361600,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User click on Continue buttonn",
+            "match": {
+              "location": "step.definations.RetailPageSteps.user_click_on_continue_buttonn()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 44757000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User should see a success message",
+            "match": {
+              "location": "step.definations.RetailPageSteps.user_should_see_a_success_message()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@gat1"
+            "name": "@jahan"
           }
         ]
       }
     ],
-    "name": "Desktop",
+    "name": "Retail Page",
     "description": "",
-    "id": "desktop",
+    "id": "retail-page",
     "keyword": "Feature",
-    "uri": "file:src/tes/resources/feature/desktop.feature",
+    "uri": "file:src/tes/resources/feature/retailPage.feature",
     "tags": []
   }
 ]

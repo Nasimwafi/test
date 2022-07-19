@@ -139,3 +139,112 @@
 2022-07-04 22:53:57,822 - src/tes/resources/input/log4j.properties -INFO - user clicked on show all
 2022-07-04 22:53:57,880 - src/tes/resources/input/log4j.properties -INFO - user sees the all items
 2022-07-04 22:53:58,175 - src/tes/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-05 18:46:35,702 - src/tes/resources/input/log4j.properties -INFO - Scenario User add HP LP    from Desktops tab to the cart started
+2022-07-05 18:46:39,472 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-05 18:46:39,610 - src/tes/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-05 18:46:40,244 - src/tes/resources/input/log4j.properties -INFO - user clicked on show all
+2022-07-05 18:46:40,770 - src/tes/resources/input/log4j.properties -INFO - Scenario User add HP LP    from Desktops tab to the cart UNDEFINED
+2022-07-05 18:48:25,754 - src/tes/resources/input/log4j.properties -INFO - Scenario User add HP LP    from Desktops tab to the cart started
+2022-07-05 18:48:29,189 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-05 18:48:29,302 - src/tes/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-05 18:48:29,956 - src/tes/resources/input/log4j.properties -INFO - user clicked on show all
+2022-07-05 18:48:30,375 - src/tes/resources/input/log4j.properties -INFO - Scenario User add HP LP    from Desktops tab to the cart UNDEFINED
+2022-07-11 20:34:07,754 - src/tes/resources/input/log4j.properties -INFO - Scenario User add HP LP    from Desktops tab to the cart started
+2022-07-11 20:34:16,260 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-11 20:34:16,519 - src/tes/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-11 20:34:17,157 - src/tes/resources/input/log4j.properties -INFO - user clicked on show all
+2022-07-11 20:34:17,241 - src/tes/resources/input/log4j.properties -INFO - user clicked on add to cart on hp laotop
+2022-07-11 20:34:19,059 - src/tes/resources/input/log4j.properties -INFO - user entered quantity of hp laptop
+2022-07-11 20:34:19,190 - src/tes/resources/input/log4j.properties -INFO - user clicked on add to cart after selecting quantity
+2022-07-11 20:34:19,763 - src/tes/resources/input/log4j.properties -INFO - Scenario User add HP LP    from Desktops tab to the cart FAILED
+2022-07-11 20:38:12,391 - src/tes/resources/input/log4j.properties -INFO - Scenario User add HP LP    from Desktops tab to the cart started
+2022-07-11 20:38:16,991 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-11 20:38:17,103 - src/tes/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-11 20:38:17,640 - src/tes/resources/input/log4j.properties -INFO - user clicked on show all
+2022-07-11 20:38:17,722 - src/tes/resources/input/log4j.properties -INFO - user clicked on add to cart on hp laotop
+2022-07-11 20:38:20,095 - src/tes/resources/input/log4j.properties -INFO - user entered quantity of hp laptop
+2022-07-11 20:38:20,231 - src/tes/resources/input/log4j.properties -INFO - user clicked on add to cart after selecting quantity
+2022-07-11 20:38:20,436 - src/tes/resources/input/log4j.properties -INFO - User have successfully added to cart
+2022-07-11 20:38:20,783 - src/tes/resources/input/log4j.properties -INFO - Scenario User add HP LP    from Desktops tab to the cart PASSED
+2022-07-12 16:18:30,394 - src/tes/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-12 16:18:34,922 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-12 16:18:35,054 - src/tes/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-12 16:18:35,536 - src/tes/resources/input/log4j.properties -INFO - user clicked on show all
+2022-07-12 16:18:35,588 - src/tes/resources/input/log4j.properties -INFO - user sees the all items
+2022-07-12 16:18:35,931 - src/tes/resources/input/log4j.properties -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-12 16:19:39,281 - src/tes/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-12 16:19:43,102 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-12 16:19:43,239 - src/tes/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-12 16:19:43,722 - src/tes/resources/input/log4j.properties -INFO - user clicked on show all
+2022-07-12 16:19:44,042 - src/tes/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-07-12 16:23:56,293 - src/tes/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-12 16:24:00,073 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-12 16:24:00,222 - src/tes/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-12 16:24:00,713 - src/tes/resources/input/log4j.properties -INFO - user clicked on show all
+2022-07-12 16:24:01,067 - src/tes/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-07-12 16:24:31,430 - src/tes/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-12 16:24:35,473 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-12 16:24:35,608 - src/tes/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-12 16:24:36,093 - src/tes/resources/input/log4j.properties -INFO - user clicked on show all
+2022-07-12 16:24:36,374 - src/tes/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-07-12 16:26:02,250 - src/tes/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-12 16:26:06,136 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-12 16:26:06,258 - src/tes/resources/input/log4j.properties -INFO - user clicked on desktop tab
+2022-07-12 16:26:06,782 - src/tes/resources/input/log4j.properties -INFO - user clicked on show all
+2022-07-12 16:26:07,132 - src/tes/resources/input/log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-07-18 14:37:17,935 - src/tes/resources/input/log4j.properties -INFO - Scenario fist scenareo started
+2022-07-18 14:37:24,436 - src/tes/resources/input/log4j.properties -INFO - Scenario fist scenareo UNDEFINED
+2022-07-18 14:45:29,592 - src/tes/resources/input/log4j.properties -INFO - Scenario fist scenareo started
+2022-07-18 14:45:32,754 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 14:45:33,291 - src/tes/resources/input/log4j.properties -INFO - Scenario fist scenareo PENDING
+2022-07-18 14:47:19,708 - src/tes/resources/input/log4j.properties -INFO - Scenario fist scenareo started
+2022-07-18 14:47:23,110 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 14:47:23,421 - src/tes/resources/input/log4j.properties -INFO - Scenario fist scenareo UNDEFINED
+2022-07-18 14:58:32,301 - src/tes/resources/input/log4j.properties -INFO - Scenario fist scenareo started
+2022-07-18 14:58:37,321 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 14:59:08,158 - src/tes/resources/input/log4j.properties -INFO - Scenario fist scenareo FAILED
+2022-07-18 15:00:52,237 - src/tes/resources/input/log4j.properties -INFO - Scenario fist scenareo started
+2022-07-18 15:00:58,752 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 15:01:00,096 - src/tes/resources/input/log4j.properties -INFO - Scenario fist scenareo PASSED
+2022-07-18 16:20:01,286 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-18 16:20:05,506 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 16:20:07,277 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-07-18 16:21:36,646 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-18 16:21:42,600 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 16:21:43,747 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-07-18 16:39:15,354 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-18 16:39:21,355 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 16:39:54,227 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-18 16:47:08,533 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-18 16:47:21,868 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 16:49:15,276 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-18 16:49:22,217 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 16:49:56,303 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-18 17:11:45,350 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-18 17:11:49,656 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 17:12:54,965 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-18 17:12:59,358 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 17:13:59,246 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-18 17:14:04,044 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 17:14:07,700 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-18 17:14:20,752 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-18 17:14:30,777 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 17:15:02,236 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-18 17:15:12,486 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-18 17:15:18,031 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 17:15:33,385 - src/tes/resources/input/log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-18 17:17:48,391 - src/tes/resources/input/log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-18 17:17:52,009 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 17:18:23,389 - src/tes/resources/input/log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-18 17:19:53,131 - src/tes/resources/input/log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-18 17:19:58,912 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 17:20:00,643 - src/tes/resources/input/log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-07-18 17:22:22,738 - src/tes/resources/input/log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-18 17:22:25,977 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 17:22:27,650 - src/tes/resources/input/log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PENDING
+2022-07-18 17:22:58,718 - src/tes/resources/input/log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-18 17:23:03,625 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 17:23:05,298 - src/tes/resources/input/log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-07-18 17:42:21,321 - src/tes/resources/input/log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-18 17:42:27,131 - src/tes/resources/input/log4j.properties -INFO - user is on Home Page
+2022-07-18 17:42:29,811 - src/tes/resources/input/log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
